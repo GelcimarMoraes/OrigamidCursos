@@ -1,0 +1,11 @@
+body {
+  color: seagreen;
+}
+
+a {
+  color: inherit;
+}
+
+button {
+  cursor: pointer;
+}

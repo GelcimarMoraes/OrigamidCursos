@@ -1,0 +1,19 @@
+span,
+a,
+strong {
+  border: 1px solid rgba(0, 0, 0, 0.5);
+}
+
+a {
+  /* display: inline-block; */
+  padding: 20px;
+  margin: 10px;
+  height: 300px;
+  width: 100px;
+}
+
+div,
+h1,
+p {
+  border: 1px solid rgba(255, 0, 0, 0.5);
+}
