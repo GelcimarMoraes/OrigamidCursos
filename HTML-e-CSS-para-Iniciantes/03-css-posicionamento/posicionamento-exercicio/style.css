@@ -1,6 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
 body {
-  font-family: Arial, Helvetica, sans-serif;
-  margin: 0px;
+  font-family: 'Roboto', sans-serif;
   background: #f7f7f7;
   display: grid;
   gap: 60px;
@@ -13,30 +20,29 @@ img {
   display: block;
 }
 
+h1, h3 {
+  font-weight: 900;
+}
+
 a {
   text-decoration: none;
 }
 
-p,
-h1,
-h2,
-h3 {
-  margin: 0px;
-}
-
 p {
   font-size: 20px;
+  font-weight: 500;
   line-height: 1.3;
 }
 
 .menu {
   display: flex;
   flex-wrap: wrap;
-  gap: 20px;
   justify-content: center;
+  gap: 20px;
 }
 
 .menu a {
+  font-weight: 600;
   background: #ffffff;
   padding: 15px 30px;
   border-radius: 4px;
@@ -51,28 +57,29 @@ p {
 }
 
 .introducao {
-  background: #fff;
-  padding: 40px;
-  text-align: right;
   position: relative;
   display: grid;
-  gap: 20px;
   align-content: center;
   justify-items: end;
+  gap: 20px;
+  background: #ffffff;
+  padding: 40px;
+  text-align: right;
+  
 }
 
 .detalhe {
-  width: 60px;
-  height: 4px;
-  background: #e21;
   position: absolute;
   top: 30px;
   right: -30px;
+  width: 60px;
+  height: 4px;
+  background: #ee2211;
 }
 
 .botao {
-  background: #e21;
-  color: #fff;
+  background: #ee2211;
+  color: #ffffff;
   padding: 15px 30px;
   border-radius: 4px;
   text-transform: uppercase;
@@ -80,6 +87,7 @@ p {
 
 .subtitulo {
   font-size: 64px;
+  font-weight: 900;
   text-transform: uppercase;
   color: rgba(0, 0, 0, 0.2);
   text-align: right;
@@ -88,7 +96,7 @@ p {
 }
 
 .vantagens {
-  background: #fff;
+  background: #ffffff;
   padding: 40px;
 }
 
@@ -104,9 +112,8 @@ p {
 }
 
 .rodape {
-  background: #fff;
+  background: #ffffff;
   width: 100%;
   text-align: center;
   padding: 40px;
-  box-sizing: border-box;
 }
