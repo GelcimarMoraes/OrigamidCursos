@@ -20,4 +20,6 @@
 
  - [ ] [HTML e CSS para Iniciantes](https://github.com/GelcimarMoraes/OrigamidCursos/tree/main/HTML-e-CSS-para-Iniciantes) :hourglass:
  
- 
+ 	- [x] [Exercicio Cinema](https://gelcimarmoraes.github.io/OrigamidCursos/HTML-e-CSS-para-Iniciantes/02-html-e-css-basico/html-exercicio/cinema/index.html)
+ 	- [x] [Exercicio Display](https://gelcimarmoraes.github.io/OrigamidCursos/HTML-e-CSS-para-Iniciantes/02-html-e-css-basico/display-exercicio/index.html)
+ 	- [x] [Exercicio Posicionamento](https://gelcimarmoraes.github.io/OrigamidCursos/HTML-e-CSS-para-Iniciantes/03-css-posicionamento/posicionamento-exercicio/index.html)
