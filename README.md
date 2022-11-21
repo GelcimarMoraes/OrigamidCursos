@@ -23,4 +23,11 @@
  	- [x] [Exercicio Cinema](https://gelcimarmoraes.github.io/OrigamidCursos/HTML-e-CSS-para-Iniciantes/02-html-e-css-basico/html-exercicio/cinema/index.html)
  	- [x] [Exercicio Display](https://gelcimarmoraes.github.io/OrigamidCursos/HTML-e-CSS-para-Iniciantes/02-html-e-css-basico/display-exercicio/index.html)
  	- [x] [Exercicio Posicionamento](https://gelcimarmoraes.github.io/OrigamidCursos/HTML-e-CSS-para-Iniciantes/03-css-posicionamento/posicionamento-exercicio/index.html)
-	- [x] [Exercicio Refatorar](https://gelcimarmoraes.github.io/OrigamidCursos/HTML-e-CSS-para-Iniciantes/05-css-propriedades/refatorar-exercicio/web-final/index.html)
+	- [x] [Exercicio Refatorar](https://gelcimarmoraes.github.io/OrigamidCursos/HTML-e-CSS-para-Iniciantes/05-css-propriedades/refatorar-exercicio/index.html)
+	- [x] [Exercicio Responsivo](https://gelcimarmoraes.github.io/OrigamidCursos/HTML-e-CSS-para-Iniciantes/06-responsivo/responsivo-exercicio/index.html)
+	
+	
+  - [ ] [UI Design para Iniciantes]() :hourglass:	
+	
+	- [ ] [Ferramenta]()
+	- [ ] [UI Design]()
