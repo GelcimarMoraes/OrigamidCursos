@@ -27,7 +27,7 @@
 	- [x] [Exercicio Responsivo](https://gelcimarmoraes.github.io/OrigamidCursos/HTML-e-CSS-para-Iniciantes/06-responsivo/responsivo-exercicio/index.html)
 	
 	
-  - [ ] [UI Design para Iniciantes]() :hourglass:	
+  - [ ] [UI Design para Iniciantes](https://github.com/GelcimarMoraes/OrigamidCursos/tree/main/UI-Design-para-Iniciantes) :hourglass:	
 	
-	- [ ] [Ferramenta]()
-	- [ ] [UI Design]()
+	- [x] [Ferramenta](https://github.com/GelcimarMoraes/OrigamidCursos/tree/main/UI-Design-para-Iniciantes/02-ferramenta)
+	- [x] [UI Design](https://github.com/GelcimarMoraes/OrigamidCursos/tree/main/UI-Design-para-Iniciantes/03-ui-design)
