@@ -29,5 +29,4 @@
 	
   - [ ] [UI Design para Iniciantes](https://github.com/GelcimarMoraes/OrigamidCursos/tree/main/UI-Design-para-Iniciantes) :hourglass:	
 	
-	- [x] [Ferramenta](https://github.com/GelcimarMoraes/OrigamidCursos/tree/main/UI-Design-para-Iniciantes/02-ferramenta)
-	- [x] [UI Design](https://github.com/GelcimarMoraes/OrigamidCursos/tree/main/UI-Design-para-Iniciantes/03-ui-design)
+	
