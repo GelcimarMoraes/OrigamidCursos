@@ -1,0 +1,3 @@
+Caravan é um site de turismo que oferece viagens para três cidades diferentes California, Paris e Dublin.
+
+Para contratar o site o usuário precisa se inscrever em um dos planos oferecidos pela empresa.

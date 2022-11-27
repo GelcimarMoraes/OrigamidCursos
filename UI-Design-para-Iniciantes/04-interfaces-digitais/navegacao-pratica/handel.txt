@@ -1,0 +1,1 @@
+Handel é um comércio eletrônico de moda, especializado em venda de vestuário masculino e feminino. Seus principais produtos são Saias, Bermudas e Camisas. Para efetuar a compra o usuário precisa adicionar um produto ao carrinho e criar/logar na sua conta para finalizar a mesma.
