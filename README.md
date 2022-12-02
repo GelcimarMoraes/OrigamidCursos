@@ -18,7 +18,7 @@
 
 ## Cursos
 
- - [ ] [HTML e CSS para Iniciantes](https://github.com/GelcimarMoraes/OrigamidCursos/tree/main/HTML-e-CSS-para-Iniciantes) :hourglass:
+ - [ ] [HTML e CSS para Iniciantes:](https://github.com/GelcimarMoraes/OrigamidCursos/tree/main/HTML-e-CSS-para-Iniciantes) :hourglass:
  
  	- [x] [Exercicio Cinema](https://gelcimarmoraes.github.io/OrigamidCursos/HTML-e-CSS-para-Iniciantes/02-html-e-css-basico/html-exercicio/cinema/index.html)
  	- [x] [Exercicio Display](https://gelcimarmoraes.github.io/OrigamidCursos/HTML-e-CSS-para-Iniciantes/02-html-e-css-basico/display-exercicio/index.html)
@@ -27,6 +27,7 @@
 	- [x] [Exercicio Responsivo](https://gelcimarmoraes.github.io/OrigamidCursos/HTML-e-CSS-para-Iniciantes/06-responsivo/responsivo-exercicio/index.html)
 	
 	
-  - [ ] [UI Design para Iniciantes](https://github.com/GelcimarMoraes/OrigamidCursos/tree/main/UI-Design-para-Iniciantes) :hourglass:	
+  - [x] [UI Design para Iniciantes:](https://github.com/GelcimarMoraes/OrigamidCursos/tree/main/UI-Design-para-Iniciantes) [Certificado](https://www.origamid.com/certificate/932bab9b)🏆
+  - [ ] [UI Design Avançado:]() :hourglass:
 	
 	
