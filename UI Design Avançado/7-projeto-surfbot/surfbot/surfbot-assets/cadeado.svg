@@ -1,0 +1,12 @@
+<svg width="12" height="15" viewBox="0 0 12 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>cadeado</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-1377 -1193)">
+<g id="cadeado">
+<use xlink:href="#path0_fill" transform="translate(1377 1193)" fill="#16C70B"/>
+</g>
+</g>
+<defs>
+<path id="path0_fill" fill-rule="evenodd" d="M 12 7L 12 13C 12 14.1046 11.1046 15 10 15L 2 15C 0.89543 15 0 14.1046 0 13L 0 7C 0 5.89543 0.89543 5 2 5L 2 4C 2 1.79086 3.79086 0 6 0C 8.20914 0 10 1.79086 10 4L 10 5C 11.1046 5 12 5.89543 12 7ZM 6 2C 4.89543 2 4 2.89543 4 4L 4 5L 8 5L 8 4C 8 2.89543 7.10457 2 6 2ZM 6 7C 4.89543 7 4 7.89543 4 9C 4 9.74028 4.4022 10.3866 5 10.7324L 5 12C 5 12.5523 5.44772 13 6 13C 6.55228 13 7 12.5523 7 12L 7 10.7324C 7.5978 10.3866 8 9.74028 8 9C 8 7.89543 7.10457 7 6 7Z"/>
+</defs>
+</svg>
