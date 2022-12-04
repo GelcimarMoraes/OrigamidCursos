@@ -1,0 +1,41 @@
+/*Estilos Gerais*/
+
+* {
+	font-weight: normal;
+	font-style: normal;
+
+}
+
+body {
+	padding-bottom: 400px;
+}
+
+h2 {
+	font-size: 2.5em;
+	font-family: "brandon-grotesque";
+	font-weight: bold;
+}
+
+p {
+	font-size: 1.250em;
+	line-height: 1.4em;
+}
+
+h1 {
+	text-align: center;
+	font-size: 3em;
+	font-weight: normal;
+	margin-top: 60px;
+	font-family: "brandon-grotesque";
+}
+
+cite {
+	display: block;
+}
+
+section {
+	max-width: 500px;
+	padding: 0 20px 20px 20px;
+	margin: 60px auto;
+	overflow: hidden;
+}

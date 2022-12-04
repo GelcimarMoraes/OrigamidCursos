@@ -1,0 +1,96 @@
+/*Estilos Gerais*/
+
+* {
+	font-weight: normal;
+	font-style: normal;
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+}
+
+body {
+	padding-bottom: 200px;
+	font-family: "Libre Baskerville", "Baskerville", serif;
+}
+
+h1 {
+	text-align: center;
+	font-size: 3em;
+	font-weight: normal;
+	margin-top: 60px;
+	color: #594098;
+}
+
+cite {
+	display: block;
+}
+
+section > div {
+	margin: 50px auto 15px auto;
+	overflow: hidden;
+	background: #e6e6e6;
+	max-width: 800px;
+	border: 1px solid #34185a;
+}
+
+section > div > span {
+	display: block;
+	width: 30%;
+	float: left;
+	font-size: 4em;
+	line-height: 1em;
+	padding: 35px 0px 0 40px;
+}
+
+section > div > h2 {
+	width: 30%;
+	float: left;
+	font-size: 1.25em;
+	line-height: 1.5em;
+	padding-top: 40px;
+}
+
+section > div > ul {
+	width: 40%;
+	float: left;
+	list-style: none;
+	font-size: 0.875em;
+	padding: 10px 0;
+}
+
+section > div > ul > li {
+	margin: 10px 0;
+}
+
+section > div > ul > li > em{
+	width: 80px;
+	display: inline-block;
+}
+
+section > div > ul > li > span{
+	padding: 4px 10px;
+	border: 1px solid rgba(0,0,0,.3);
+	display: inline-block;
+	background: rgba(255,255,255,.8);
+}
+
+section > p {
+	max-width: 800px;
+	margin: 0 auto .8em auto;
+}
+
+section > p:nth-of-type(2) {
+	font-style: italic;
+}
+
+.quotes > div:nth-of-type(2) {
+	margin-top: -16px;
+}
+
+.quotes > div > span{
+	font-size: 8em;
+	padding-top: 110px;
+	line-height: 0em;
+}

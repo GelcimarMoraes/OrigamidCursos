@@ -1,0 +1,517 @@
+/*Estilos Gerais*/
+
+* {
+	font-weight: normal;
+	font-style: normal;
+}
+
+body {
+	padding-bottom: 400px;
+}
+
+h1 {
+	text-align: center;
+	font-size: 3em;
+	font-family: Georgia;
+	font-style: italic;
+	font-weight: normal;
+	margin-top: 60px;
+}
+
+cite {
+	display: block;
+}
+
+section {
+	padding: 0 40px 40px 40px;
+	margin: 60px auto;
+	overflow: hidden;
+}
+
+/*Estilos Tipografia*/
+
+/* 1 § Cor
+
+.exemplo-1 {
+	background: #c2e3c6;
+}
+.exemplo-1 h2{
+	color: #693ab6;
+}
+.exemplo-1 p {
+	color: rgba(0,0,0,.6);
+}*/
+
+
+
+.exemplo-1 {
+	
+}
+
+.exemplo-1 h2{
+	
+}
+
+.exemplo-1 p {
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 2 § Bold ou Itálico
+
+.exemplo-2 h2 {
+	font-weight: bold;
+}
+.exemplo-2 p {
+	font-style: italic;
+}
+.exemplo-2 cite {
+	font-style: italic;
+} */
+
+
+
+.exemplo-2 h2 {
+	
+}
+
+.exemplo-2 p {
+	
+}
+
+.exemplo-2 cite {
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 3 § Tamanho e Altura da linha
+
+.exemplo-3 h2 {
+	font-size: 2em;
+}
+.exemplo-3 p {
+	font-size: 1.2em;
+	line-height: 1.4em;
+}
+.exemplo-3 cite {
+	font-size: 0.875em;
+} */
+
+
+
+.exemplo-3 h2 {
+	
+}
+
+.exemplo-3 p {
+	
+}
+
+.exemplo-3 cite {
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 4 § Família Tipográfica
+
+.exemplo-4 h2 {
+	font-size: 3em;
+	font-family: "Duke";
+	font-style: italic; Falso itálico
+	font-weight: bold; Falso bold
+}
+.exemplo-4 p {
+	font-family: Helvetica;
+	font-size: 1em;
+	line-height: 1.4em;
+}
+.exemplo-4 cite {
+	font-family: "Futura", "Helvetica";
+	font-size: 0.875em;
+} */
+
+
+
+.exemplo-4 h2 {
+	
+}
+
+.exemplo-4 p {
+	
+}
+
+.exemplo-4 cite {
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 5 § Variante
+
+.exemplo-5 h2 {
+	font-variant: small-caps;
+}
+.exemplo-5 p {
+	font-family: "Alegreya SC";
+} */
+
+
+
+.exemplo-5 h2 {
+	
+}
+
+.exemplo-5 p {
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 6 §  Font Geral
+
+.exemplo-6 h2 {
+	font: italic small-caps bold 2em Georgia;
+}
+.exemplo-6 p {
+	font: 1.2em/1.5em Georgia;
+} */
+
+
+
+.exemplo-6 h2 {
+	
+}
+
+.exemplo-6 p {
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 7 § Alinhamento
+
+.exemplo-7 h2 {
+	text-align: center;
+}
+.exemplo-7 p {
+	text-align: justify;
+}
+.exemplo-7 cite {
+	text-align: right;
+} */
+
+
+
+.exemplo-7 h2 {
+	
+}
+
+.exemplo-7 p {
+	
+}
+
+.exemplo-7 cite {
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 8 § Transformar
+
+.exemplo-8 h2 {
+	text-transform: uppercase;
+}
+.exemplo-8 p {
+	text-transform: capitalize;
+}
+.exemplo-8 cite {
+	text-transform: lowercase;
+} */
+
+
+
+.exemplo-8 h2 {
+	
+}
+
+.exemplo-8 p {
+	
+}
+
+.exemplo-8 cite {
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 9 § Indentar
+.exemplo-9 p {
+	text-indent: 20px;
+	margin: 0px;
+}
+.exemplo-9 cite {
+	margin-top: 1em;
+} */
+
+
+
+.exemplo-9 p {
+	
+}
+
+.exemplo-9 p:first-of-type {
+	
+}
+
+
+.exemplo-9 cite {
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 10 §  Decoração
+
+.exemplo-10 h2 {
+	text-decoration: overline;
+}
+.exemplo-10 p {
+	text-decoration: line-through;
+}
+.exemplo-10 cite {
+	display: inline-block;
+}
+.exemplo-10 cite:after {
+	height: 2px;
+	background: #000;
+	display: block;
+	content: "";
+} */
+
+
+
+.exemplo-10 h2 {
+	
+}
+
+.exemplo-10 p {
+	
+}
+
+.exemplo-10 cite {
+	
+}
+
+.exemplo-10 a {
+	
+}
+
+.exemplo-10 cite:after {
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 11 § Sombra
+
+.exemplo-11 h2 {
+	color: #fff;
+	text-shadow: 1px 1px 2px #000;
+} */
+
+
+.exemplo-11 {
+	
+}
+
+.exemplo-11 h2 {
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 12 § Tracking, Espaçamento e Quebra
+
+.exemplo-12 {
+	overflow: scroll;
+}
+.exemplo-12 h2 {
+	text-transform: uppercase;
+	letter-spacing: .1em;
+}
+.exemplo-12 p {
+	white-space: nowrap;
+	word-spacing: 10px;
+} */
+
+
+
+.exemplo-12 {
+
+}
+
+.exemplo-12 h2 {
+	
+}
+
+.exemplo-12 p {
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 13 § Lista
+
+.exemplo-13 ul {
+	list-style: disc;
+	list-style-position: outside;
+	padding: 0px;
+}
+.exemplo-13 ul li {
+	padding: 0px;
+} */
+
+
+
+.exemplo-13 ul {
+	
+}
+
+.exemplo-13 ul li {
+	
+}

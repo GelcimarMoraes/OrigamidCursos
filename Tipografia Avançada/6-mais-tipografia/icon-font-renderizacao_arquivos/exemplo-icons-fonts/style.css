@@ -1,0 +1,54 @@
+/*Estilos Gerais*/
+
+@font-face {
+	font-family: 'icomoon';
+	src:url('fonts/icomoon.eot?voniki');
+	src:url('fonts/icomoon.eot?#iefixvoniki') format('embedded-opentype'),
+		url('fonts/icomoon.ttf?voniki') format('truetype'),
+		url('fonts/icomoon.woff?voniki') format('woff'),
+		url('fonts/icomoon.svg?voniki#icomoon') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+span {
+	font-family: 'icomoon';
+	font-size: 10em;
+}
+
+* {
+	font-weight: normal;
+	font-style: normal;
+
+}
+
+body {
+	padding-bottom: 400px;
+}
+
+h2 {
+	font-size: 2.5em;
+}
+
+p {
+	font-size: 1.250em;
+	line-height: 1.4em;
+}
+
+h1 {
+	text-align: center;
+	font-size: 3em;
+	font-weight: normal;
+	margin-top: 60px;
+}
+
+cite {
+	display: block;
+}
+
+section {
+	max-width: 500px;
+	padding: 0 20px 20px 20px;
+	margin: 60px auto;
+	overflow: hidden;
+}

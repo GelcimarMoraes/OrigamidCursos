@@ -1,0 +1,24 @@
+
+
+Rest
+
+Restaurante com pratos entre 80 e 180
+
+Possui um cardápio simples feito pelo Chef da casa.
+O cardápio muda, mas sempre possui poucos itens.
+
+Estamos localizados na Rua Marechal 29 – Copacabana – Rj
+Nosso telefone é o 2422-9201
+
+Queremos mostrar o menu da semana o horário e o contato.
+
+Menu (só o de peixes no momento)
+
+Salmão Grelhado no Forno
+Pequenas tiras de salmão feitas no alho e óleo
+
+Sardinha Frita na Cerveja
+Sardinhas escolhidas a dedo e fritasem cerveja premium
+
+Camarão com Catupiry
+Grandes camarões grelhados, servidosao molho de camarão com catupiry
