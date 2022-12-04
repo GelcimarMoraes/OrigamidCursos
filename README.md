@@ -29,5 +29,7 @@
 	
   - [x] [UI Design para Iniciantes:](https://github.com/GelcimarMoraes/OrigamidCursos/tree/main/UI-Design-para-Iniciantes) [Certificado](https://www.origamid.com/certificate/932bab9b)🏆
   - [x] [UI Design Avançado:](https://github.com/GelcimarMoraes/OrigamidCursos/tree/main/UI%20Design%20Avan%C3%A7ado) [Certificado](https://www.origamid.com/certificate/3aac3a06)🏆
+  - [x] [Tipografia Avançada:](https://github.com/GelcimarMoraes/OrigamidCursos/tree/main/Tipografia%20Avan%C3%A7ada) [Certificado](https://www.origamid.com/certificate/3482a540)🏆
+  - [ ] [UX Design Heurísticas:]() [Certificado]():hourglass:
 	
 	
