@@ -1,0 +1,236 @@
+body {
+	font-family: "Proxima Nova Soft", helvetica, arial, sans-serif;
+	padding-bottom: 600px;
+}
+
+.menu {
+	padding: 30px 0;
+}
+
+.menu nav ul {
+	margin-top: 5px;
+	text-align: right;
+}
+
+.menu nav ul li {
+	display: inline-block;
+}
+
+.menu nav ul li a {
+	color: #29383e;
+	padding: 10px;
+	
+}
+
+.menu nav ul li a:hover {
+	color: #ff6200;
+}
+
+/* planos */
+
+.planos {
+	background: url('../img/pattern.png'), linear-gradient(135deg, #01a7ec, #0186bd);
+	margin-bottom: 300px;
+}
+
+.planos .container {
+	max-width: 600px;
+}
+
+.planos h1 {
+	color: white;
+	font-size: 2em;
+	text-transform: uppercase;
+	text-align: center;
+	padding: 80px 0 40px 0;
+}
+
+.planos-item {
+	background: white;
+	border-radius: 5px;
+	box-shadow: 0 2px 10px 0 rgba(0,0,0,.1);
+	padding-bottom: 20px;
+	margin-bottom: -220px;
+}
+
+.silver {
+	margin-top: 65px;
+}
+
+.planos-nome {
+	font-size: 1.75em;
+	background: #29383e;
+	color: white;
+	padding: 20px;
+	border-radius: 5px 5px 0px 0;
+}
+
+.planos-nome h2 {
+	display: inline-block;
+}
+
+.planos-nome span {
+	float: right;
+}
+
+.planos-nome sup {
+	font-size: .5em;
+}
+
+.planos-item ul {
+	padding: 20px;
+}
+
+.planos-item ul li {
+	font-size: 1.25em;
+	color: #b3c0c6;
+	border-bottom: 2px solid #e1e8eb;
+	padding: 15px 0;
+}
+
+.planos-item ul li::before {
+	content: '';
+	display: inline-block;
+	width: 19px;
+	height: 14px;
+	background: url('../img/positivo.png') no-repeat center center;
+	margin-right: 12px;
+}
+
+.recomendado {
+	font-size: 1.25em;
+	display: block;
+	width: 160px;
+	padding: 6px;
+	border-radius: 5px;
+	background: #ff6200;
+	color: white;
+	text-align: center;
+	margin: -15px auto;
+}
+
+.btn {
+	font-size: 1.25em;
+	display: block;
+	background: linear-gradient(90deg, #02a7ec, #019cdd);
+	box-shadow: 0 2px 2px 0 rgba(0,0,0,.1);
+	padding: 16px 0 12px 0px;
+	border-radius: 5px;
+	color: white;
+	text-align: center;
+	margin: 0 20px;
+	text-transform: uppercase;
+}
+
+.modal {
+	position: fixed;
+	top: 0;
+	left: 0;
+	background: rgba(0,0,0,.0);
+	width: 100%;
+	height: 0px;
+	transition: background .3s;
+}
+
+.modal-ativo {
+	background: rgba(0,0,0,.5);
+	height: 100vh;
+}
+
+.modal-wrapper {
+	width: 300px;
+	height: 300px;
+	margin: 0 auto;
+	position: relative;
+	top: 100px;
+	background: white;
+	border-radius: 5px;
+	box-shadow: 0 2px 10px 0 rgba(0,0,0,.1);
+	padding: 20px;
+	transform: translate(0, -120px);
+	transition: .3s;
+	opacity: 0;
+	visibility: hidden;
+}
+
+.modal-ativo .modal-wrapper {
+	visibility: visible;
+	transform: translate(0, 0px);
+	opacity: 1;
+}
+
+.modal-wrapper h1 {
+	font-size: 1.75em;
+	color: #FF6200;
+}
+
+.modal-wrapper label {
+	font-size: 1.25em;
+	display: block;
+	color: #b3c0c6;
+	margin: 10px 0 2px 0;
+}
+
+.modal-wrapper input {
+	width: 100%;
+	border-radius: 5px;
+	padding: 5px;
+	border: 2px solid #e1e8eb;
+	background: #e1e8eb;
+	display: block;
+	color: #29383e;
+	outline: none;
+	font-size: 1.1em;
+}
+
+.modal-wrapper input:hover, .modal-wrapper input:focus {
+	background: none;
+}
+
+button.btn {
+	display: block;
+	border: none;
+	padding: 10px 20px;
+	cursor: pointer;
+	margin: 20px 0;
+}
+
+.vantagens {
+
+}
+
+.vantagens h1 {
+	font-size: 1.75em;
+	color: #FF6200;
+	text-align: center;
+	margin-bottom: 40px;
+}
+
+.vantagens h2 {
+	font-size: 1.25em;
+	color: #02a7ec;
+	text-align: center;
+	margin: 10px auto;
+}
+
+.vantagens svg {
+	display: block;
+	max-width: 60px;
+	margin: 0 auto;
+}
+
+svg.animate path {
+	animation: svg-animate 2s forwards;
+}
+
+@keyframes svg-animate {
+	from {}
+	to {
+		stroke-dashoffset: 0;
+	}
+}
+
+.vantagens p {
+	text-align: center;
+	line-height: 1.4em;
+}

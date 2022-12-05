@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Atalhos</title>
+	<meta charset="utf-8">
+	<link rel="stylesheet" href="style.css">
+</head>
+<body>
+	
+	<div class="alphabet">
+		<button>a</button><audio id="a" src="sounds/a.mp3"></audio>
+		<button>b</button><audio id="b" src="sounds/b.mp3"></audio>
+		<button>c</button><audio id="c" src="sounds/c.mp3"></audio>
+		<button>d</button><audio id="d" src="sounds/d.mp3"></audio>
+		<button>e</button><audio id="e" src="sounds/e.mp3"></audio>
+		<button>f</button><audio id="f" src="sounds/f.mp3"></audio>
+		<button>g</button><audio id="g" src="sounds/g.mp3"></audio>
+		<button>h</button><audio id="h" src="sounds/h.mp3"></audio>
+		<button>i</button><audio id="i" src="sounds/i.mp3"></audio>
+		<button>j</button><audio id="j" src="sounds/j.mp3"></audio>
+		<button>k</button><audio id="k" src="sounds/k.mp3"></audio>
+		<button>l</button><audio id="l" src="sounds/l.mp3"></audio>
+		<button>m</button><audio id="m" src="sounds/m.mp3"></audio>
+		<button>n</button><audio id="n" src="sounds/n.mp3"></audio>
+		<button>o</button><audio id="o" src="sounds/o.mp3"></audio>
+		<button>p</button><audio id="p" src="sounds/p.mp3"></audio>
+		<button>q</button><audio id="q" src="sounds/q.mp3"></audio>
+		<button>r</button><audio id="r" src="sounds/r.mp3"></audio>
+		<button>s</button><audio id="s" src="sounds/s.mp3"></audio>
+		<button>t</button><audio id="t" src="sounds/t.mp3"></audio>
+		<button>u</button><audio id="u" src="sounds/u.mp3"></audio>
+		<button>v</button><audio id="v" src="sounds/v.mp3"></audio>
+		<button>w</button><audio id="w" src="sounds/w.mp3"></audio>
+		<button>x</button><audio id="x" src="sounds/x.mp3"></audio>
+		<button>y</button><audio id="y" src="sounds/y.mp3"></audio>
+		<button>z</button><audio id="z" src="sounds/z.mp3"></audio>
+	</div>
+
+	<script type="text/javascript" src="jquery-3.0.0.min.js"></script>
+	<script type="text/javascript" src="mousetrap.min.js"></script>
+	<script type="text/javascript">
+
+		$('button').on('click', function() {
+			var next = $(this).next().attr('id'),
+					sound = document.getElementById(next);
+			sound.play();
+		});
+
+		Mousetrap.bind('a', function() { document.getElementById('a').play(); });
+		Mousetrap.bind('b', function() { document.getElementById('b').play(); });
+		Mousetrap.bind('c', function() { document.getElementById('c').play(); });
+		Mousetrap.bind('d', function() { document.getElementById('d').play(); });
+		Mousetrap.bind('e', function() { document.getElementById('e').play(); });
+		Mousetrap.bind('f', function() { document.getElementById('f').play(); });
+		Mousetrap.bind('g', function() { document.getElementById('g').play(); });
+		Mousetrap.bind('h', function() { document.getElementById('h').play(); });
+		Mousetrap.bind('i', function() { document.getElementById('i').play(); });
+		Mousetrap.bind('j', function() { document.getElementById('j').play(); });
+		Mousetrap.bind('k', function() { document.getElementById('k').play(); });
+		Mousetrap.bind('l', function() { document.getElementById('l').play(); });
+		Mousetrap.bind('m', function() { document.getElementById('m').play(); });
+		Mousetrap.bind('n', function() { document.getElementById('n').play(); });
+		Mousetrap.bind('o', function() { document.getElementById('o').play(); });
+		Mousetrap.bind('p', function() { document.getElementById('p').play(); });
+		Mousetrap.bind('q', function() { document.getElementById('q').play(); });
+		Mousetrap.bind('r', function() { document.getElementById('r').play(); });
+		Mousetrap.bind('s', function() { document.getElementById('s').play(); });
+		Mousetrap.bind('t', function() { document.getElementById('t').play(); });
+		Mousetrap.bind('u', function() { document.getElementById('u').play(); });
+		Mousetrap.bind('v', function() { document.getElementById('v').play(); });
+		Mousetrap.bind('w', function() { document.getElementById('w').play(); });
+		Mousetrap.bind('x', function() { document.getElementById('x').play(); });
+		Mousetrap.bind('y', function() { document.getElementById('y').play(); });
+		Mousetrap.bind('z', function() { document.getElementById('z').play(); });
+		
+	</script>
+</body>
+</html>

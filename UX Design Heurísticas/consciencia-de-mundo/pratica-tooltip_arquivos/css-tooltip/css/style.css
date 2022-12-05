@@ -1,0 +1,47 @@
+.tooltip {
+	text-decoration: underline;
+	color: tomato;
+}
+
+.tooltip::after {
+	content: attr(data-title);
+	display: block;
+	position: absolute;
+	visibility: hidden;
+	opacity: 0;
+	transform: translate(0, 10px);
+	
+	max-width: 200px;
+	font-size: 12px;
+	line-height: 1.4em;
+	font-family: courier;
+	background: #8844ee;
+	color: white;
+	padding: 5px 10px;
+	border-radius: 2px;
+}
+
+.tooltip:hover::after {
+	visibility: visible;
+	opacity: 1;
+	transform: translate(0, 5px);
+	transition: all .2s ease;
+}
+
+.wrapper {
+	width: 600px;
+	margin: 0 auto;
+}
+
+p {
+	font-family: Courier;
+	font-size: 18px;
+	line-height: 1.5em;
+	margin-top: 20px;
+}
+
+a {
+	margin: 60px auto;
+	display: block;
+	text-align: center;
+}

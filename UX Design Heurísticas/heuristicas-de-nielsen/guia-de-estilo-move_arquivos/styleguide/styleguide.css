@@ -1,0 +1,118 @@
+/* Cores */
+.primaria-1 {
+	background: ;
+}
+.primaria-2 {
+	background: ;
+}
+.secundaria-1 {
+	background: ;
+}
+.secundaria-2 {
+	background: ;
+}
+.secundaria-3 {
+	background: ;
+}
+/* Tipografia */
+.titulo-1 {
+	font-family: ;
+	font-size: ;
+	line-height: ;
+	color: ;
+}
+.titulo-2 {
+	font-family: ;
+	font-size: ;
+	line-height: ;
+	color: ;
+}
+.corpo-1 p {
+	font-family: ;
+	font-size: ;
+	line-height: ;
+	margin-bottom: ;
+	color: ;
+}
+.corpo-2 p {
+	font-family: ;
+	font-size: ;
+	line-height: ;
+	margin-bottom: ;
+	color: ;
+}
+/* Botões e Links */
+.btn-primario a {
+	font-family: ;
+	font-size: ;
+	display: inline-block;
+	background: ;
+	color: ;
+	text-align: center;
+	padding: ;
+	border: ;
+}
+.btn-primario a:hover {
+	background: ;
+	color: ;
+}
+.btn-secundario a {
+	font-family: ;
+	font-size: ;
+	display: inline-block;
+	background: ;
+	color: ;
+	text-align: center;
+	padding: ;
+	border: ;
+}
+.btn-secundario a:hover {
+	background: ;
+	color: ;
+}
+.link a {
+	font-family: ;
+	color: ;
+}
+.link a:hover {
+	text-decoration: ;
+}
+/* Formulário */
+label {
+	display: block;
+	font-family: ;
+	margin-bottom: ;
+	color: ;
+}
+input, textarea {
+	font-family: ;
+	font-size: ;
+	padding: ;
+	background: ;
+	border: ;
+	margin-bottom: ;
+	width: ;
+	box-sizing: border-box;
+}
+textarea {
+	min-height: ;
+}
+input:focus, input:hover, textarea:focus, textarea:hover {
+	outline: ;
+	border-color: ;
+}
+button {
+	font-family: ;
+	font-size: ;
+	display: inline-block;
+	background: ;
+	color: ;
+	text-align: center;
+	padding: ;
+	border: ;
+	cursor: pointer;
+}
+button:hover {
+	background: ;
+	color: ;
+}
