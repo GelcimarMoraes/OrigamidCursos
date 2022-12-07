@@ -35,7 +35,7 @@
 }
 
 .empresa::before {
-  content: '';
+  content: "";
   display: block;
   width: 4px;
   height: 20px;
@@ -52,7 +52,7 @@
   text-align: right;
   width: 80px;
   color: #525252;
-  font-size: .875rem;
+  font-size: 0.875rem;
 }
 
 .empresa-titulo {
@@ -75,10 +75,10 @@
 }
 
 .empresa-habilidades li {
-  font-size: .875rem;
+  font-size: 0.875rem;
   line-height: 1.4;
   border-radius: 4px;
-  background: #fff;
+  background: #ffffff;
   padding: 5px 10px;
 }
 
