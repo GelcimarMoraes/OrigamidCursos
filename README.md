@@ -24,6 +24,7 @@
  	- [x] [Exercicio Display.](https://gelcimarmoraes.github.io/OrigamidCursos/HTML-e-CSS-para-Iniciantes/02-html-e-css-basico/display-exercicio/index.html)
 	- [x] [Exercicio Responsivo.](https://gelcimarmoraes.github.io/OrigamidCursos/HTML-e-CSS-para-Iniciantes/06-responsivo/responsivo-exercicio/index.html)
 	- [x] [Projeto-Portfolio.](https://gelcimarmoraes.github.io/OrigamidCursos/HTML-e-CSS-para-Iniciantes/07-projeto-portfolio/portfolio-lobo/)
+	- [x] [Modo Claro e Escuro.](https://gelcimarmoraes.github.io/OrigamidCursos/HTML-e-CSS-para-Iniciantes/09-mais-html-e-css/5-modo-claro-e-escuro/web-final/index.html)
 	
 	
   - [x] [UI Design para Iniciantes:](https://github.com/GelcimarMoraes/OrigamidCursos/tree/main/UI-Design-para-Iniciantes) [Certificado](https://www.origamid.com/certificate/932bab9b)🏆
