@@ -1,0 +1,19 @@
+img {
+  max-width: 100%;
+  display: block;
+}
+
+#galeria {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+#galeria ul {
+  padding: 0px;
+  margin: 0px;
+  list-style: none;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 10px;
+  margin-bottom: 10px;
+}
