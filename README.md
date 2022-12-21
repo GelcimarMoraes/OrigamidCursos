@@ -18,7 +18,7 @@
 
 ## Cursos
 
-- [x] [Web Design Completo:](https://github.com/GelcimarMoraes/OrigamidCursos/tree/main/Web%20Design%20Completo) [Certificado]()🏆
+- [x] [Web Design Completo:](https://github.com/GelcimarMoraes/OrigamidCursos/tree/main/Web-Design-Completo) [Certificado]()🏆
 	- [x] [Projeto bikcraft.](https://gelcimarmoraes.github.io/OrigamidCursos/Web-Design-Completo/3-codigo-do-projeto/bikcraft/index.html)
 
  - [x] [HTML e CSS para Iniciantes:](https://github.com/GelcimarMoraes/OrigamidCursos/tree/main/HTML-e-CSS-para-Iniciantes) [Certificado](https://www.origamid.com/certificate/f59ef12d)🏆
