@@ -29,7 +29,11 @@
 	- [x] [Projeto-Portfolio.](https://gelcimarmoraes.github.io/OrigamidCursos/HTML-e-CSS-para-Iniciantes/07-projeto-portfolio/portfolio-lobo/)
 	- [x] [Modo Claro e Escuro.](https://gelcimarmoraes.github.io/OrigamidCursos/HTML-e-CSS-para-Iniciantes/09-mais-html-e-css/5-modo-claro-e-escuro/web-final/index.html)
 	- [x] [Projeto Final Bikcraft.](https://gelcimarmoraes.github.io/OrigamidCursos/HTML-e-CSS-para-Iniciantes/13-otimizar-producao/bikcraft/index.html)
+- [x] [CSS Flexbox:](https://github.com/GelcimarMoraes/) [Certificado]()🏆
+	- [x] [Flexblog:](https://github.com/GelcimarMoraes/)
+- [x] [CSS Grid Layout:](https://github.com/GelcimarMoraes/) [Certificado]()🏆
 
+- [x] [CSS Avançado Posicionamento:](https://github.com/GelcimarMoraes/) [Certificado]()🏆
 
 - [x] [UI Design para Iniciantes:](https://github.com/GelcimarMoraes/OrigamidCursos/tree/main/UI-Design-para-Iniciantes) [Certificado](https://www.origamid.com/certificate/932bab9b)🏆
 - [x] [UI Design Avançado:](https://github.com/GelcimarMoraes/OrigamidCursos/tree/main/UI%20Design%20Avan%C3%A7ado) [Certificado](https://www.origamid.com/certificate/3aac3a06)🏆
