@@ -1,0 +1,52 @@
+section {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.modal h1.titulo {
+  color: blue;
+  font-family: monospace;
+  margin-bottom: 60px;
+}
+
+.modal p {
+  font-size: 1.2em;
+  font-family: monospace;
+  font-style: italic;
+  line-height: 1.4;
+  max-width: 400px;
+}
+
+.modal a {
+  display: block;
+  max-width: 120px;
+  padding: 10px;
+  border-radius: 4px;
+  text-align: center;
+  background: blue;
+  color: white;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-family: monospace;
+}
+
+ul {
+  text-align: center;
+}
+
+ul li {
+  display: inline-block;
+  list-style: none;
+}
+
+ul li a {
+  display: block;
+  padding: 20px;
+  text-decoration: none;
+  background: blue;
+  color: white;
+}
+
+ul li a:hover, ul li a.active {
+  background: pink;
+}

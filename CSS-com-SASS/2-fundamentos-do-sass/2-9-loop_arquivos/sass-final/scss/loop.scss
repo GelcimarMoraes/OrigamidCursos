@@ -1,0 +1,35 @@
+$lista: facebook twitter snapchat instagram;
+
+@each $item in $lista {
+	.rede-#{$item} {
+		background-image: url('../img/#{$item}.png');
+	}
+} 
+
+$numero: 2;
+
+@while $numero <= 6 {
+	.type-#{$numero} {
+		font-size: 16 * $numero + px;
+	}
+	$numero: $numero + 2;
+}
+
+
+@for $i from 1 through 16 {
+	$width: $i / 16 * 100 + %;
+	.porcento-#{$i} {
+		width: $width;
+	}
+}
+
+$container: 768;
+$gutter: 20;
+$colunas: 12;
+
+@for $i from 1 through $colunas {
+	$width: $container / $colunas * $i -  $gutter;
+	.grid-#{$i} {
+		width: $width + px;
+	}
+}

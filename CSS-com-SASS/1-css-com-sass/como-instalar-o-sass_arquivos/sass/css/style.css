@@ -1,0 +1,14 @@
+/* line 3, /Users/MacZayph/Desktop/sass/scss/style.scss */
+div {
+  background: #999;
+  height: 200px;
+  width: 100px;
+}
+
+/* line 7, /Users/MacZayph/Desktop/sass/scss/style.scss */
+div a {
+  color: pink;
+  background: blue;
+}
+
+/*# sourceMappingURL=../css/style.map */
