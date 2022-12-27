@@ -36,7 +36,7 @@
 - [x] [CSS Grid Layout:](https://github.com/GelcimarMoraes/OrigamidCursos/tree/main/CSS-Grid-Layout/wildbeast) [Certificado](https://www.origamid.com/certificate/c8549f25)🏆
 	- [x] [Wildbeast.](https://gelcimarmoraes.github.io/OrigamidCursos/CSS-Grid-Layout/wildbeast/index.html)
 
-- [x] [CSS com SASS:](https://github.com/GelcimarMoraes/OrigamidCursos/tree/main/CSS-com-SASS) [Certificado]()🏆
+- [x] [CSS com SASS:](https://github.com/GelcimarMoraes/OrigamidCursos/tree/main/CSS-com-SASS) [Certificado](https://www.origamid.com/certificate/2b61ce72)🏆
 	- [x] [Lescone.](https://gelcimarmoraes.github.io/OrigamidCursos/CSS-com-SASS/4-projeto-sass/lescone/index.html)
 
 
