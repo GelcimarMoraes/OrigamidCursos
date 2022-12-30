@@ -43,6 +43,7 @@
 	- [x] [Brafé.](https://gelcimarmoraes.github.io/OrigamidCursos/CSS-Avançado-Posicionamento/puro-grid-flexbox-bootstrap/2-22-brafe-1-flexbox-responsivo_arquivos/brafe-1-flexbox/index.html)
 	- [x] [Brafé 2.](https://gelcimarmoraes.github.io/OrigamidCursos/CSS-Avançado-Posicionamento/puro-grid-flexbox-bootstrap-2/3-10-brafe-2-flexbox_arquivos/brafe-2-flexbox-final/index.html)
 	- [x] [Brafé.](https://gelcimarmoraes.github.io/)
+	
 
 - [x] [UI Design para Iniciantes:](https://github.com/GelcimarMoraes/OrigamidCursos/tree/main/UI-Design-para-Iniciantes) [Certificado](https://www.origamid.com/certificate/932bab9b)🏆
 - [x] [UI Design Avançado:](https://github.com/GelcimarMoraes/OrigamidCursos/tree/main/UI%20Design%20Avan%C3%A7ado) [Certificado](https://www.origamid.com/certificate/3aac3a06)🏆
