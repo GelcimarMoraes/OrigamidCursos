@@ -1,0 +1,53 @@
+body, p, h1, h2, ul, li {
+	margin: 0px;
+	padding: 0px;
+}
+
+li {
+	list-style: none;
+}
+
+body {
+	font-family: Georgia, serif;
+	color: #252525;
+}
+
+* {
+	box-sizing: border-box;
+}
+
+/* MENU */
+
+.header-informacoes {
+	font-size: 0.875em;
+	background: #d6d3c8;
+	padding: 5px 0;
+	text-align: center;
+}
+
+.header-logo img {
+	display: block;
+	margin: 40px auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
