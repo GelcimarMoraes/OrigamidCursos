@@ -39,7 +39,7 @@
 - [x] [CSS com SASS:](https://github.com/GelcimarMoraes/OrigamidCursos/tree/main/CSS-com-SASS) [Certificado](https://www.origamid.com/certificate/2b61ce72)🏆
 	- [x] [Lescone.](https://gelcimarmoraes.github.io/OrigamidCursos/CSS-com-SASS/4-projeto-sass/lescone/index.html)
 
-- [x] [CSS Avançado Posicionamento:](https://github.com/GelcimarMoraes/OrigamidCursos/tree/main/CSS-Avan%C3%A7ado-Posicionamento) [Certificado]()🏆
+- [x] [CSS Avançado Posicionamento:](https://github.com/GelcimarMoraes/OrigamidCursos/tree/main/CSS-Avan%C3%A7ado-Posicionamento) [Certificado](https://www.origamid.com/certificate/c8fd3218)🏆
 	- [x] [Brafé 1.](https://gelcimarmoraes.github.io/OrigamidCursos/CSS-Avançado-Posicionamento/puro-grid-flexbox-bootstrap/2-22-brafe-1-flexbox-responsivo_arquivos/brafe-1-flexbox/index.html)
 	- [x] [Brafé 2.](https://gelcimarmoraes.github.io/OrigamidCursos/CSS-Avançado-Posicionamento/puro-grid-flexbox-bootstrap-2/3-10-brafe-2-flexbox_arquivos/brafe-2-flexbox-final/index.html)
 	- [x] [Brafé 3.](https://gelcimarmoraes.github.io/OrigamidCursos/CSS-Avançado-Posicionamento/puro-flexbox-bootstrap-3/4-11-brafe-3-flexbox-produtos_arquivos/brafe-3-flexbox/index.html)
