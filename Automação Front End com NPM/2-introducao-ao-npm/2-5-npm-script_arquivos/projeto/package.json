@@ -1,0 +1,16 @@
+{
+  "name": "origamid",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "minclip": "node_modules/.bin/uglifyjs clipboard.js -c -o clipboard.min.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "uglify-js": "^3.3.18"
+  }
+}
