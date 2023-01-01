@@ -17,7 +17,7 @@
 <p align="center"> Meus progressos em Front-end & UX, UI 🐺 Origamid. Projetos e Certificados.🏆</p>
 
 ## Cursos
-- [x] [Automação Front End com NPM:](https://github.com/GelcimarMoraes/OrigamidCursos/tree/main/Automa%C3%A7%C3%A3o-Front-End-com-NPM) [Certificado]()🏆
+- [x] [Automação Front End com NPM:](https://github.com/GelcimarMoraes/OrigamidCursos/tree/main/Automa%C3%A7%C3%A3o-Front-End-com-NPM) [Certificado](https://www.origamid.com/certificate/ee1f8f60)🏆
 	- [x] [Modal.](https://gelcimarmoraes.github.io/OrigamidCursos/Automação-Front-End-com-NPM/4-outras-automacoes/4-3-basico-git_arquivos/arquivo-inicial/index.html)
 	
 - [x] [Web Design Completo:](https://github.com/GelcimarMoraes/OrigamidCursos/tree/main/Web-Design-Completo) [Certificado](https://www.origamid.com/certificate/89cfeeda)🏆
